@@ -115,7 +115,7 @@ const DEFAULT_SEARCH_HEADER_VIEW_STYLE = {
         transform: [{
             translateY: DEVICE_HEIGHT
         }],
-        backgroundColor: `#fdfdfd`
+        backgroundColor: `transparent`
     },
     input: {
         flex: 1,
